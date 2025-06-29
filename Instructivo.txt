@@ -1,0 +1,23 @@
+== Instructivo ==
+Los datos que necesita el usuario para poder utilizar este maravilloso
+programa :3.
+NOTA: Los NO.Cuenta de los clientes se generan de forma random.
+----------------------------------------
+Gerente:
+- ID: G001
+- password: gerente123
+-----------
+Admins
+ID: A001 | Contraseña: admin1
+
+ID: A002 | Contraseña: admin2
+
+ID: A003 | Contraseña: admin3
+----------
+Empleados
+ID: E001 | Contraseña: empleado1
+
+ID: E002 | Contraseña: empleado2
+
+Acceso a: Registro de clientes, transacciones básicas
+----------
